@@ -1,4 +1,4 @@
-Ello, I’m @ME-Massine, I’m interested in programming,& I’m currently learning C
+Ello, my name Massine, I’m interested in programming 💻 & I’m currently learning C and python.
 
 you can contact me on instagram: 
   
