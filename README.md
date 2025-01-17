@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Massine AMAKHTARI</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [Bank-Managment-Project](https://github.com/ME-Massine/Bank-System-Project/tree/Code-2.0)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **My SQL**
+- 🌱 I’m currently learning **php - c++ - laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ME-Massine?tab=repositories](https://github.com/ME-Massine?tab=repositories)
 
-- 📫 How to reach me **massine268@gmail.com**
+- 📫 How to reach me **massine000@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/massine-amakhtari-48b815261/](https://www.linkedin.com/in/massine-amakhtari-48b815261/)
 
