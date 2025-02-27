@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Massine AMAKHTARI</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-
-- 🔭 I’m currently working on 
+<h3 align="center">A passionate developer from Morocco</h3>
 
 - 🌱 I’m currently learning **php - c++ - laravel**
 
