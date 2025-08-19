@@ -1,5 +1,5 @@
 <h1 align="left">💫 About Me:</h1>
-<br><br>    🌱 I’m currently learning Python - Java - Django<br><br>    👨‍💻 All of my projects are available at https://github.com/ME-Massine?tab=repositories<br><br>    📫 How to reach me [email](massine000@gmail.com)<br><br>    📄 Know about my experiences https://www.linkedin.com/in/massine-amakhtari-48b815261/<br>
+<br><br>    🌱 I’m currently learning Python - Java - Django<br><br>    👨‍💻 All of my projects are available at https://github.com/ME-Massine?tab=repositories<br><br>    📫 How to reach me [![email](massine000@gmail.com)](mailto:massine000@gmail.com)<br><br>    📄 Know about my experiences https://www.linkedin.com/in/massine-amakhtari-48b815261/<br>
 
 
 ## 🌐 Socials:
