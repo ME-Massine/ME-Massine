@@ -30,8 +30,8 @@ A sustainability-focused web app built on **Laravel**. It gamifies eco-friendly 
 ## 📈 My GitHub Journey
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ME-massine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-massine&layout=compact&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ME-Massine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=dracula" height="180" />
 </p>
 
 ---
