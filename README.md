@@ -41,19 +41,19 @@
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ME-massine&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-massine&layout=compact&theme=tokyonight&border_radius=10" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ME-Massine&show_icons=true&theme=tokyonight&border_radius=10" width="48%" alt="Massine's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=tokyonight&border_radius=10" width="41%" alt="Massine's Top Languages" />
 </p>
 
 ---
 
 ### 🏗️ Current Roadmap
-- 🧪 **Deep Dive:** Mastering Data Analysis with `Pandas`, `NumPy`, and `Matplotlib`.
-- ⚙️ **Systems:** Strengthening enterprise-level logic with `C# / .NET`.
-- 🌍 **Open Source:** Contributing to image-processing tools like `next-cloudinary`.
+- 🧪 **Data Science:** Mastering analysis with `Pandas`, `NumPy`, and `Matplotlib`.
+- ⚙️ **Enterprise Systems:** Strengthening logic with `C# / .NET`.
+- 🌍 **Open Source:** Contributing to tools like `next-cloudinary`.
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Daily Quote" />
 </p>
