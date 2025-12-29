@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Massine Amakhtari - Full Stack Software Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/ME-Massine/ME-Massine/main/banner.png" alt="Massine Amakhtari - Full Stack Software Engineer Banner" width="100%">
 </p>
 
 # 👨‍💻 Massine Amakhtari
@@ -25,20 +25,20 @@
 
 ### 🌟 Featured Architecture
 
-#### 📘 [Azure AI Student Support](https://github.com/ME-Massine/azure-ai-student-support)
+#### 🤖 [Azure AI Student Support](https://github.com/ME-Massine/azure-ai-student-support)
 *Next.js • TypeScript • Microsoft Azure AI*
-* Engineered a multilingual support system for educational accessibility using Microsoft AI services.
-* Integrated Cloud AI services to automate student assistance workflows.
+* Engineered a multilingual support system to enhance educational accessibility.
+* Integrated Microsoft Azure AI services to automate student assistance workflows.
 
 #### 🌦️ [SkyCast Weather](https://github.com/ME-Massine/SkyCast)
 *Java • Android Studio • OpenWeather API*
-* Native mobile application featuring real-time data fetching via Retrofit and Material UI.
-* Focused on clean architecture and Material Design principles.
+* Native Android application featuring real-time data fetching via Retrofit.
+* Implemented a polished user interface using Material UI and clean architecture.
 
 #### 💼 [FreelanceHub](https://github.com/ME-Massine/FreelanceHub)
 *Python • Django • PostgreSQL*
-* Developed a full-cycle management platform for freelancers with secure authentication.
-* Implements dynamic project tracking and portfolio showcasing.
+* Developed a full-cycle management platform to support freelance project workflows.
+* Implemented secure authentication and dynamic project tracking systems.
 
 ---
 
@@ -54,7 +54,7 @@
 ### 🏗️ Current Roadmap
 - 🧪 **Data Science:** Mastering analysis with `Pandas`, `NumPy`, and `Matplotlib`.
 - ⚙️ **Enterprise Systems:** Strengthening logic with `C# / .NET`.
-- 🌍 **Open Source:** Contributing to tools like `next-cloudinary` and `svelte-cloudinary`.
+- 🌍 **Open Source:** Contributing to high-performance image handling tools like `next-cloudinary`.
 
 ---
 
