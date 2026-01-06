@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ME-Massine&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" width="41%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" width="41%" alt="Top Languages" />
 </p>
 
 ---
