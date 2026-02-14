@@ -100,12 +100,6 @@ A comprehensive project management platform designed for freelancers, featuring 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ME-Massine&theme=react-dark&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🎯 Current Learning Path
