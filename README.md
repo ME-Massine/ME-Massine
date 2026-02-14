@@ -115,7 +115,7 @@ graph LR
     G --> I[Docker & Kubernetes]
 ```
 
-**2024 Goals:**
+**2026 Goals:**
 - [ ] Master data analysis and visualization libraries
 - [ ] Build a production-grade microservices application
 - [ ] Contribute to 5+ open-source projects
