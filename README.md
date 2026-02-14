@@ -92,8 +92,13 @@ A comprehensive project management platform designed for freelancers, featuring 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ME-Massine&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME-Massine&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" width="49%" alt="GitHub Streak" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ME-Massine&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ME-Massine&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Massine&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 </div>
 
 <div align="center">
