@@ -34,7 +34,9 @@ I care about system design, reliability, and building software that behaves corr
 ### [PulseStream — Cloud-Native Event Processing Platform](https://github.com/ME-Massine/pulsestream)
 > **Java • Spring Boot • Kafka • PostgreSQL • Docker**
 
-A distributed event-driven platform designed to process high-throughput data streams with fault tolerance and observability.
+![PulseStream Architecture](https://github.com/ME-Massine/pulsestream/blob/main/docs/diagrams/system-architecture.png)
+
+Designed to simulate real-world distributed systems constraints such as failure handling, event consistency, and system observability.
 
 **Key Highlights:**
 - 🧩 Microservices-based architecture (ingestion, processing, analytics)
@@ -82,6 +84,14 @@ const massine = {
 
 ---
 
+### 🧠 Engineering Focus
+
+- Designing systems that remain stable under failure
+- Building idempotent and resilient event pipelines
+- Observability-first system design (metrics > guessing)
+
+---
+
 ## 🎯 Current Focus
 - Building production-grade distributed systems
 - Designing resilient event-driven architectures
@@ -96,7 +106,7 @@ I’m open to collaborating on backend systems, distributed architectures, and h
 
 <div align="center">
     
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MASSINE%20AMAKHTARI-0077B5?style=for-the-badge)]((https://www.linkedin.com/in/massine-amakhtari-48b815261/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MASSINE%20AMAKHTARI-0077B5?style=for-the-badge)](https://www.linkedin.com/in/massine-amakhtari-48b815261/)
 
 [![Email](https://img.shields.io/badge/EMAIL-MASSINE000@GMAIL.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massine000@gmail.com)
 
