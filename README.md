@@ -34,7 +34,15 @@ I care about system design, reliability, and building software that behaves corr
 ### [PulseStream — Cloud-Native Event Processing Platform](https://github.com/ME-Massine/pulsestream)
 > **Java • Spring Boot • Kafka • PostgreSQL • Docker**
 
-![PulseStream Architecture](https://github.com/ME-Massine/pulsestream/blob/main/docs/diagrams/system-architecture.png)
+<br>
+<img src="https://github.com/ME-Massine/pulsestream/blob/main/docs/diagrams/system-architecture.png" width="100%" style="border-radius:10px;" alt="PulseStream Architecture" />
+
+The system processes telemetry data through a Kafka-based pipeline:
+
+- Ingestion service publishes raw events from IoT devices
+- Processing service consumes, enriches, and routes events (processed, anomalies, DLQ)
+- Query service serves processed data from PostgreSQL
+- Observability is handled via Prometheus, Grafana, and OpenTelemetry
 
 Designed to simulate real-world distributed systems constraints such as failure handling, event consistency, and system observability.
 
