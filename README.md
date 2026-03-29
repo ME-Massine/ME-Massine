@@ -31,7 +31,7 @@ I care about system design, reliability, and building software that behaves corr
 
 ## ⚡ Featured Project
 
-### [PulseStream — Cloud-Native Event Processing Platform](https://github.com/ME-Massine/<your-repo>)
+### [PulseStream — Cloud-Native Event Processing Platform](https://github.com/ME-Massine/pulsestream)
 > **Java • Spring Boot • Kafka • PostgreSQL • Docker**
 
 A distributed event-driven platform designed to process high-throughput data streams with fault tolerance and observability.
